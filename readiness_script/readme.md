@@ -1,10 +1,16 @@
 # 🧠 Readiness script
 
-This R script runs main analysis.
+This R script performs assessment of cohort counts.
 
-The results are generated in a CSV files and PNG files to Results folder.
+The results are generated in a CSV files and PNG files to Results folder and are generated in an aggregate, anonymous manner (lowest cell/person count reported is 5). Before publication, all data will be sent to Findata for review of anonymity, as per the Finnish secondary use act regulation.
 
 ---
+
+
+
+*<!--FROM HERE OLD TXT FROM ALEX AND NEEDS TO BE MODIFIED-->*
+
+
 
 ## What to do?
 
