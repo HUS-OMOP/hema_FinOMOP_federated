@@ -15,10 +15,8 @@ The results are generated in a CSV files and PNG files to Results folder and are
 ## What to do?
 
 1. Check below for dependencies
-2. Open `run.py` and add your DB parameters and end of the observations
-3. Navigate into the folder on your terminal
-4. Run the code - see Running the Code
-5. Zip the content of results folder and email the zip-file to alexey.ryzhenkov@helsinki.fi 
+2. Open 
+3. 
 
 ## 🚀 Running the Code
 
